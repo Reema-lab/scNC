@@ -13,6 +13,7 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-normResult <- Normalize() {
+normResult <- Normalize(x) 
+{
   p <- print("Hello, world!")
 }
